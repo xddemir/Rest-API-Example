@@ -22,9 +22,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Aimed to create a RESFUL service to front-end deployment
+Aimed to create a RESFUL service with authentication to front-end deployment:
 
-Major technologies used with:
+Server-side technologies and futures used with:
 ```
 Express.js
 JWT
